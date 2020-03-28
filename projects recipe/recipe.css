@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+}
+.logo{
+    height: 100px;
+    position: absolute;
+    margin-left: 15px;
+
+}
+.container{
+    position: sticky;
+    top: 20%;
+    
+}
+.text{
+    padding-top: 45px;
+    font-size: 3rem;
+    color: #fff;
+}
+.btn-success{
+    border-radius: 10px;
+    position: relative;
+    top: 25px;
+    padding: 10px;
+}
+.output{
+    position: relative;
+    text-align: center;
+}
+.list-group{
+    line-height: 1.2;
+}
+.text2{
+    color: #fff;
+}
+.card{
+    position: absolute;
+    width: 20rem;
+    height: 17rem;
+    text-align: center;
+    margin: auto;
+}
+
+.card-title{
+    text-transform: uppercase;
+    text-align: center;
+}
+.body{
+    padding: 0px;
+    font-size: 18px;
+    height: 50vh;
+}
+#name{
+    position: sticky;
+    text-align: center;
+    top: 40%;
+    background: #212529;
+    color: #fff;
+}
